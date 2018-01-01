@@ -1,2 +1,2 @@
 # hello-word
-just
+# include<cv.h>
